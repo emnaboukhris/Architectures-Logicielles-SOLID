@@ -1,0 +1,10 @@
+@startuml
+ 
+
+ class Duck{
+    +quack():void
+    +swim():
+ }
+
+
+@enduml
